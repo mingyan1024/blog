@@ -1,7 +1,7 @@
 +++
 date = '2026-05-08T10:37:34+08:00'
 draft = false
-title = 'x86、x64、AMD64、ARM 是什么？一篇看懂 CPU 架构和安装包怎么选'
+title = 'x86、x64、AMD64、ARM 是什么？一文搞懂 CPU 架构，下载软件包不再迷糊'
 tags = ['x86', 'x64', 'AMD64', 'ARM', 'CPU架构', '安装包下载', 'Intel', 'AMD']
 description = '详细讲解 x86、x64、AMD64、ARM 分别是什么，Intel、AMD、苹果 Mac 芯片有什么关系，以及下载软件时应该如何选择正确的安装包。'
 categories = ['IT杂谈']
