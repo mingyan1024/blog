@@ -4,7 +4,7 @@ draft = false
 title = '如何将iPhone免费投屏到Windows电脑？2款好用的投屏软件推荐'
 tags = ['iPhone', 'Windows', '投屏', '屏幕镜像', 'LetsView', 'ApowerMirror', '效率工具']
 description = '想要把 iPhone 手机屏幕投屏到 Windows 电脑？本文为你科普苹果与Windows的投屏协议差异，并强力推荐两款好用且免费的无线投屏软件（LetsView 与 ApowerMirror），无需在手机端安装App即可轻松搞定。'
-categories = ['IT工具']
+categories = ['IT杂谈']
 +++
 
 很多人都会遇到这样的场景：想把 Iphone 手机的屏幕投屏到电脑上进行展示。

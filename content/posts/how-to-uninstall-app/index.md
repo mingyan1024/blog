@@ -4,7 +4,7 @@ draft = false
 title = 'Windows电脑如何彻底卸载软件？3个实用技巧告别系统残留'
 tags = ['windows', '软件卸载', '电脑清理', '效率工具', 'geekuninstaller', 'everything', '教程']
 description = '电脑软件卸载不干净，留下大量注册表和系统文件残留怎么办？本文分享3种Windows系统下彻底卸载软件的实用方法，介绍免费卸载神器 Geek Uninstaller、文件搜索工具 Everything 以及任务管理器的巧妙用法，帮你彻底清理系统垃圾，拯救硬盘空间。'
-categories = ['IT工具']
+categories = ['IT杂谈']
 +++
 
 你是否会担心电脑里面的程序卸载不干净？

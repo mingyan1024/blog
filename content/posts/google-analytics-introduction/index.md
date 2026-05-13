@@ -4,7 +4,7 @@ draft = false
 title = 'Google Analytics 教程：免费监控网站流量与用户数据'
 tags = ['google-analytics', '网站分析', '网站流量', 'hugo', '谷歌分析', '数据统计']
 description = '手把手教你免费接入 Google Analytics 谷歌分析平台，掌握网站访问量、用户来源、热门内容等关键数据，助力个人网站和博客精准运营。含 Hugo 配置详细步骤。'
-categories = ['web运营']
+categories = ['web建站']
 +++
 
 拥有网站的朋友，不管是个人网站、团队网站还是公司网站，都希望能够看到网站的数据。
