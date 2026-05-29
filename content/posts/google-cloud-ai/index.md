@@ -82,7 +82,7 @@ response = client.models.generate_content(
 print(response.text)
 ```
 
-*具体实践请参考，我分享的视频*
+*具体实践请参考，我分享的视频*: [视频链接](https://youtu.be/mKn7FRS39PI)
 
 
 ## 3、谷歌云 ai agent
