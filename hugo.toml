@@ -1,4 +1,4 @@
-baseURL = 'https://gaomian.org'
+baseURL = 'https://mingyan1024.github.io/blog-hugo/'
 languageCode = 'zh-cn'
 title = '高勉的技术分享 | 专注分享ai及其它IT领域的干货'
 theme = "PaperMod"
