@@ -17,6 +17,8 @@ categories = ["AI相关"]
 
 每个新注册的谷歌云账号，都可以获得300美元赠金。
 
+![赠金](image.png)
+
 接下来点击登录，用谷歌的gmail邮箱，注册谷歌云。
 
 注册成功之后，你就可以使用谷歌云的300美元赠金。
@@ -30,9 +32,15 @@ categories = ["AI相关"]
 
 打开谷歌云官网，找到 agent platform/studio/应用构建器，进入到应用构建器的页面。
 
+![studio](image-1.png)
+
+![应用构建器](image-2.png)
+
 下面的输入框，是跟ai对话的入口。
 
 ## 3、vibe coding 应用
+
+*（请查看视频演示：[视频链接](https://youtu.be/cQ6NqmUmI2I?si=g8phN_ZhUQEHo8Zn)）*
 
 我在输入框里输入我的需求，让它帮我生成一个童话故事生成器。
 
@@ -48,6 +56,9 @@ categories = ["AI相关"]
 
 
 ## 4、应用部署
+
+*（请查看视频演示：[视频链接](https://youtu.be/cQ6NqmUmI2I?si=g8phN_ZhUQEHo8Zn)）*
+
 
 点击小火箭就可以部署。
 
@@ -67,6 +78,9 @@ categories = ["AI相关"]
 
 
 ## 5、绑定域名
+
+*（请查看视频演示：[视频链接](https://youtu.be/cQ6NqmUmI2I?si=g8phN_ZhUQEHo8Zn)）*
+
 
 绑定域名首先你要有一个域名，大家可以在 Cloudflare、NameSilo、GoDaddy、阿里云、腾讯云等平台购买一个域名。
 
@@ -94,6 +108,9 @@ categories = ["AI相关"]
 
 
 ## 6、新的风暴
+
+*（请查看视频演示：[视频链接](https://youtu.be/cQ6NqmUmI2I?si=g8phN_ZhUQEHo8Zn)）*
+
 
 你通过绑定的域名，直接使用这个应用的时候，就会出现error。
 
