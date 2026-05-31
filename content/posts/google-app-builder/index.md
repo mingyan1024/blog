@@ -1,7 +1,7 @@
 +++
 date = '2026-05-22T11:39:13+08:00'
 draft = false
-title = '谷歌云 App Builder 完全指南：免费 Vibe Coding 一键构建并上线应用'
+title = '谷歌云 App Builder 完全指南：免费 Vibe Coding 一键生成并上线应用'
 tags = ["谷歌云", "Google Cloud", "App Builder", "Vibe Coding", "AI编程", "应用部署", "Cloud Run", "Gemini", "免费建站", "自定义域名"]
 description = '谷歌云应用构建器（App Builder）是真正的 Vibe Coding 天花板——AI 写代码、自动部署上线，一键搞定。本文详细介绍如何用 Google App Builder 免费构建并发布应用，涵盖 Cloud Run 部署、自定义域名绑定、API Key 配置等完整流程，零成本拥有属于自己的 AI 应用。'
 categories = ["AI相关"]
