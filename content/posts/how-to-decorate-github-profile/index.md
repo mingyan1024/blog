@@ -72,7 +72,7 @@ ORCID iD ----- 跟学术相关的信息，不用管。
 
 另外，如果想添加这个star增长记录图，可以使用下面在线工具生成。
 
-- ![star增长曲线记录](https://www.star-history.com/)
+- [star增长曲线记录](https://www.star-history.com/)
 
 ![star](image-6.png)
 
