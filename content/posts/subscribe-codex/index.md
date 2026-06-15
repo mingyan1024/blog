@@ -25,7 +25,7 @@ categories = ['AI相关']
 
 具体步骤：
 
-（读者可以阅读下面的步骤，也可以参考视频分享，[点击进入](https://youtu.be/YveuXwYlmP8)）
+（具体步骤这里，建议参考视频分享，[点击进入](https://youtu.be/YveuXwYlmP8)）
 
 第一步，打开苹果官网，[点击进入](https://apple.com)
 
