@@ -9,6 +9,8 @@ categories = ['ai相关']
 
 今天的文章，分享一下remotion工具。
 
+以下是文字内容，也请参考[视频演示](https://youtu.be/srW1Jnm1N2U)。
+
 ## 1、remotion 是什么
 
 remotion 不是 ai 工具，不是 ai 大模型。
