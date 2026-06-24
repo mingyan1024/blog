@@ -4,7 +4,7 @@ draft = false
 title = 'Remotion完全指南：用React代码生成视频的前端框架教程'
 tags = ['Remotion', '视频制作', 'React', 'TypeScript', '前端开发', '视频编程', 'AI辅助开发', '代码生成视频', 'Web开发']
 description = '深入了解Remotion视频框架：一个基于React的程序化视频制作工具。本教程详细讲解Remotion是什么、如何安装配置、项目结构解析，以及如何使用AI工具结合Remotion快速创建动态视频。适合前端开发者学习用代码制作专业视频。'
-categories = ['ai相关']
+categories = ['remotion']
 +++
 
 今天的文章，分享一下remotion工具。
