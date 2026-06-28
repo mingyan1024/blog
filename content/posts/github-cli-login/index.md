@@ -4,7 +4,7 @@ draft = false
 title = 'GitHub 配置身份验证教程：Git 用户配置与 SSH 密钥完整指南'
 tags = ["git", "github", "ssh", "ssh-key", "windows", "git-config", "git教程"]
 description = '手把手教你在 Windows 上完成 GitHub 身份验证配置：包括 git config 设置用户名和邮箱、ssh-keygen 生成 SSH 密钥对，以及如何将公钥上传至 GitHub，实现免密安全认证。'
-categories = ['Git教程']
+categories = ['IT杂谈']
 +++
 
 在上一期视频里，跟大家分享了一下，如何将github安装在你的电脑上。

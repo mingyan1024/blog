@@ -4,7 +4,7 @@ draft = false
 title = '如何从 GitHub 下载软件？Release、官网与 git clone 三种方法详解'
 tags = ["github", "github教程", "下载软件", "git clone", "开源软件", "release"]
 description = '手把手教你从 GitHub 下载软件的三种方法：Release 页面下载安装包、官网跳转下载、以及 ZIP 压缩包或 git clone 命令下载项目代码。附 Windows / macOS / Linux 及 x64、arm64 处理器架构文件名关键词对照表，新手也能看懂 GitHub Release。'
-categories = ["git教程"]
+categories = ["IT杂谈"]
 +++
 
 在之前的文章里，我们讲到了 github 宝藏软件的搜索技巧以及如何像刷抖音、逛淘宝一样玩 GitHub。

@@ -4,7 +4,7 @@ draft = false
 title = 'GitHub Explore 完全指南：像刷抖音一样发现优质开源项目'
 tags = ["github", "github-explore", "开源项目", "trending", "git", "git教程", "hellogithub"]
 description = '教你用 GitHub Explore 发现宝藏开源项目：包括 Topics 话题、Trending 热榜、Collections 精选合集的使用技巧，以及 HelloGitHub 中文平台推荐和搜索高星项目的进阶玩法。'
-categories = ['Git教程']
+categories = ['IT杂谈']
 +++
 
 今天的视频，跟大家分享一下，如何像刷抖音、逛淘宝一样，玩github。
