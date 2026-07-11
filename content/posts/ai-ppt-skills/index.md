@@ -19,4 +19,4 @@ https://github.com/lewislulu/html-ppt-skill
 
 ```
 
-这两个skill的使用方法，请参看[视频]()。
+这两个skill的使用方法，请参看[视频](https://youtu.be/D06ezUtUcvs)。
