@@ -27,4 +27,4 @@ hf download hf://Comfy-Org/MiniMax-H3/diffusion_models/minimax_h3_fl2va_pruned_i
 
 ---
 
-付费咨询，一对一教学，请联系：gao_mygoh 。
+付费咨询，远程一对一教学，请联系：gao_mygoh 。
