@@ -23,7 +23,7 @@ hf download hf://Comfy-Org/MiniMax-H3/diffusion_models/minimax_h3_fl2va_pruned_i
 
 ## 2、相关视频
 
-
+[视频链接](https://youtu.be/6jJLdG53Wv4)
 
 ---
 
