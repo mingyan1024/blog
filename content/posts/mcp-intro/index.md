@@ -79,7 +79,7 @@ categories = ['ai相关']
 
 ## 2、请参阅视频
 
-[视频链接]()
+[视频链接](https://youtu.be/SS42LJNkyl8)
 
 ---
 
