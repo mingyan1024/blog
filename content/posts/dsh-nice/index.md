@@ -27,7 +27,7 @@ npx -y @deepseek-ai/dsh plugin --profile web remove  dsh-web-plugin-manager
 
 ## 视频讲解
 
-[视频链接]()
+[视频链接](https://youtu.be/jjS2CJ_fPvk)
 
 ---
 
