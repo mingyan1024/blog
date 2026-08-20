@@ -35,7 +35,7 @@ ollama ps
 
 ## 视频链接
 
-视频请参阅，[视频链接]()
+视频请参阅，[视频链接](https://youtu.be/GFTLtii9qfU)
 
 ---
 
