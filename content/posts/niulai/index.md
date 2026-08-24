@@ -19,7 +19,7 @@ https://opencode.ai/zen/v1
 
 ## 2、视频链接
 
-视频指导，请查看[视频链接]()。
+视频指导，请前往[视频链接](https://youtu.be/Si6ZDTSP1Js)。
 
 ---
 
