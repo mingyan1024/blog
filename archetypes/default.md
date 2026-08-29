@@ -3,10 +3,13 @@ date = '{{ .Date }}'
 draft = false
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 tags = []
-description = ''
+description = '相关指令请参考下面内容'
 categories = []
 +++
 
+## 视频链接
+
+视频演示请参阅，请前往[youtube链接]()。
 
 ---
 
