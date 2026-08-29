@@ -36,7 +36,7 @@ api地址：http://127.0.0.1:8080/v1
 
 ## 视频链接
 
-视频演示请参阅，请前往[youtube链接]()。
+视频演示请参阅，请前往[youtube链接](https://youtu.be/hKYQVRfARTM)。
 
 ---
 
