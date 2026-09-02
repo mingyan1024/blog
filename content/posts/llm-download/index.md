@@ -52,7 +52,7 @@ FROM ".\Qwen3.8-27B-UD-IQ1_S.gguf"
 
 ## 视频链接
 
-视频演示请参阅，请前往[youtube链接]()。
+视频演示请参阅，请前往[youtube链接](https://youtu.be/7uTwS5fyDK4)。
 
 ---
 
