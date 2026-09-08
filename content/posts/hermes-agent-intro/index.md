@@ -53,7 +53,7 @@ hermes --profile tianmei gateway restart
 
 ## 视频链接
 
-视频演示请参阅，请前往[链接]()。
+视频演示请参阅，请前往[链接](https://youtu.be/vt8L1OlsbpY)。
 
 ---
 
