@@ -29,7 +29,7 @@ modelscope download --model Comfy-Org/MiniMax-H3 diffusion_models/minimax_h3_fl2
 
 ## 视频链接
 
-视频演示请参阅，请前往[链接]()。
+视频演示请参阅，请前往[链接](https://youtu.be/wL6cyB8Yi3c)。
 
 ---
 
