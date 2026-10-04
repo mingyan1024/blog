@@ -148,7 +148,7 @@ page up / page down
 
 ## 视频链接
 
-视频演示，请前往[链接]()。
+视频演示，请前往[链接](https://youtu.be/cKfFRSdTZNQ)。
 
 ---
 
